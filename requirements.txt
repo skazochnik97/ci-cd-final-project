@@ -21,6 +21,3 @@ coverage==6.3.2
 
 # Utilities
 httpie==3.2.1
-
-# fix gcc error on flake8 alpine container
-multidict==4.3.0
